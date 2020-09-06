@@ -1,0 +1,76 @@
+body{
+    font-family:'Gotham', sans-serif;
+    background-color:white;
+}
+header{
+    background-color:white;
+}
+a.navbar-brand{
+    width:40%;
+}
+.logo{
+    width: 100%;
+    height:auto;
+}
+div.main-body{
+    margin-top:5%;
+}
+.table.schedule{
+    width:80%;
+    margin:0 auto;
+    text-align: center;
+    font-size:14px;
+}
+footer{
+    margin-top:5%;
+    display: none;
+}
+.week-p{
+    text-align: center;
+}
+.arrow{
+    width:15px;
+    height:auto;
+}
+.week-number{
+    padding-top:2px
+}
+ul.navbar-nav{
+    width: 100%;
+    margin-top:4%;
+}
+li.nac-item{
+    width:100%;
+}
+.header-content{
+    margin:0 auto;
+}
+div#navbarNavDropdown.collapse.navbar-collapse{
+    width:55%;
+    float:right;
+}
+input.form-control.mr-sm-2{
+    width:100%;
+}
+
+/* table section */
+table.table.schedule{
+    border-collapse: separate;
+}
+tbody{
+    border-top-width: 1px;
+    border-top-color: black;
+}
+tr th{
+    border-style: double;
+    border-width:1px;
+    margin: 2px;
+}
+tr{
+    margin: 2px;
+}
+td{
+    border-style: double;
+    border-width:1px;
+    margin: 2px;
+}
