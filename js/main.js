@@ -1,0 +1,3 @@
+function weekFunction(){
+    alert("Hello!");
+}
