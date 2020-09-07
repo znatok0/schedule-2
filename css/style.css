@@ -72,8 +72,6 @@ tr th{
     border-style: double;
     border-width:1px;
     margin: 2px;
-}
-th{
     padding: 1.75rem;
     border-top-color: black;
     width: 180px;
