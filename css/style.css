@@ -22,8 +22,15 @@ div.main-body{
     font-size:14px;
 }
 footer{
-    margin-top:5%;
-    display: none;
+    margin-top:2%;
+    /* display: none; */
+}
+.bottom-logo{
+    width:100px;
+}
+.bottom-logo-div{
+    width:100px;
+    margin:0 auto;
 }
 .week-p{
     text-align: center;
