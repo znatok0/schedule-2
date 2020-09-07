@@ -161,7 +161,10 @@
     </main>
     <!-- Footer -->
     <footer>
-        <center><p>ссылка на сайт разработчика</p></center>
+        <div class="bottom-logo-div">
+            <img class="bottom-logo" src="/img/logo.png" alt="bottom-logo">
+        </div>
+        <center><p>Казахстанско-Российский медицинский университет</p></center>
     </footer>
     
   </body>
