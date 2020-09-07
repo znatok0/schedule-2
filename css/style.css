@@ -36,14 +36,14 @@ footer{
     text-align: center;
 }
 .arrow-back{
-    width:15px;
+    width:19px;
     height:auto;
 }
 .arrow-back:hover{
     cursor:pointer;
 }
 .arrow-front{
-    width:15px;
+    width:19px;
     height:auto;
 }
 .arrow-front:hover{
