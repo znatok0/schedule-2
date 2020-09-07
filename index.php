@@ -50,7 +50,7 @@
     
     <!-- Schedule main body -->
     <div class="main-body">
-        <p class="week-p" class="week-number"><img class="arrow" src="/img/back.png" onclick="weekFunction()" alt="back">Неделя №1<img class="arrow" src="/img/next.png" alt="next"></p>
+        <p class="week-p" class="week-number"><img class="arrow-back" src="/img/back.png" onclick="weekFunction()" alt="back">Неделя №1<img class="arrow-front" src="/img/next.png" alt="next"></p>
         <table class="table schedule">
             <thead>
                 <tr>

@@ -35,9 +35,19 @@ footer{
 .week-p{
     text-align: center;
 }
-.arrow{
+.arrow-back{
     width:15px;
     height:auto;
+}
+.arrow-back:hover{
+    cursor:pointer;
+}
+.arrow-front{
+    width:15px;
+    height:auto;
+}
+.arrow-front:hover{
+    cursor:pointer;
 }
 .week-number{
     padding-top:2px
