@@ -13,7 +13,7 @@ a.navbar-brand{
     height:auto;
 }
 div.main-body{
-    margin-top:5%;
+    margin-top:1%;
 }
 .table.schedule{
     width:80%;
@@ -72,6 +72,9 @@ tr th{
     border-style: double;
     border-width:1px;
     margin: 2px;
+    padding: 1.75rem;
+    border-top-color: black;
+    width: 180px;
 }
 tr{
     margin: 2px;
