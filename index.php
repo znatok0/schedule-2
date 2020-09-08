@@ -66,6 +66,16 @@
             </thead>
             <tbody>
                 <tr>
+                    <th scope="row">8:00 - 8:50</th>
+                    <td>Урок1</td>
+                    <td>Урок1</td>
+                    <td>Урок1</td>
+                    <td>Урок1</td>
+                    <td>Урок1</td>
+                    <td>Урок1</td>
+                    <td>Урок1</td>
+                </tr>
+                <tr>
                     <th scope="row">9:00 - 9:50</th>
                     <td>Урок1</td>
                     <td>Урок1</td>
@@ -146,7 +156,7 @@
                     <td>Урок3</td>
                 </tr>
                 <tr>
-                    <th scope="row">16:00 - 16:50</th>
+                    <th scope="row">17:00 - 17:50</th>
                     <td>Урок3</td>
                     <td>Урок3</td>
                     <td>Урок3</td>
@@ -156,7 +166,17 @@
                     <td>Урок3</td>
                 </tr>
                 <tr>
-                    <th scope="row">17:00 - 17:50</th>
+                    <th scope="row">18:00 - 18:50</th>
+                    <td>Урок3</td>
+                    <td>Урок3</td>
+                    <td>Урок3</td>
+                    <td>Урок3</td>
+                    <td>Урок3</td>
+                    <td>Урок3</td>
+                    <td>Урок3</td>
+                </tr>
+                <tr>
+                    <th scope="row">19:00 - 19:50</th>
                     <td>Урок3</td>
                     <td>Урок3</td>
                     <td>Урок3</td>
