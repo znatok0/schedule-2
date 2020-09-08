@@ -83,8 +83,9 @@ tr th{
     border-width:1px;
     margin: 2px;
     padding: 1.75rem;
-    border-top-color: black;
+    /* border-top-color: black; */
     width: 180px;
+    border-color: #dee2e6;
 }
 tr{
     margin: 2px;
@@ -92,5 +93,6 @@ tr{
 td{
     border-style: double;
     border-width:1px;
+    border-color: #dee2e6;
     margin: 2px;
 }
